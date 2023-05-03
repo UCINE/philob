@@ -12,7 +12,7 @@
 
 SRC		= ./main.c\
 		ft_atoi.c\
-		exit_program.c
+		exit_program.c\
 	
 OBJS	=$(SRC:.c=.o)
 
