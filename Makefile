@@ -23,7 +23,6 @@ CFLAGS	= -Wall -Wextra -Werror -fsanitize=thread -g
 NAME	= philo
 
 RM		= rm -rf
-
 all : $(NAME)
 
 $(NAME) : $(OBJS)
